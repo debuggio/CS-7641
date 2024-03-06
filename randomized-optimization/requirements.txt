@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+graphviz
+mlrose-hiive
+joblib==1.2.0
